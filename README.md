@@ -1,3 +1,6 @@
-# My Github Art
+# Github art
 
-Created using [git-art](https://github.com/jamesjarvis/git-art)
+Checkout my contribute on my github page   
+You can find this art :)    
+
+![shot](shot.png)
